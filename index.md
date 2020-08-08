@@ -9,7 +9,7 @@
 <img src="images/aefp-1.png?raw=true?raw=true" width="500"/>
 ---
 [Adversarial Example Attack and Defense](https://github.com/as791/Adversarial-Example-Attack-and-Defense)
-<img src="images/fgsm-adv.png?raw=true" width="500"/>
+<img src="images/fgsm-adv.png?raw=true" width="300"/>
 ---
 ### Skills
 - 
