@@ -1,13 +1,18 @@
 title: Aryaman Sinha # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+  I am a Final Year Electrical Engineering Student at IIT Bhubaneswar.
+  My current areas of interest are :-
+  - Algorithms & Data Structures
+  - Machine Learning
+  - Deep Learning
+  - Data Analytics
+  - Digital Image Processing
+  I also have some experience with application of machine learning and deep learning algorithms in the area of remote sensing and biomedical. Mainly, I have worked on classification and semantic segmentation techniques.
+  I have mathematical as well as intuitive idea about different machine learning algorithms and deep learning algorithms like Markov Chain Model, SVM, Maximum Likelihood Classifier, Decision Tree, Random Forest, AdaBoost, XGBoost, Multi-Layer Perceptron, Hopfield Network, Gradient Boosting, K-means, Autoencoders, RNN, CNN and still learning to be perfect in all these techniques.
+  I also have interest in competitive coding and know basic data structures like linked list, stacks, queue, binary search tree, n-ary tree and graphs. I am currently 3 star on Codechef with rating of 1793.  
   <br><br>
   <a href="https://www.linkedin.com/in/as791/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a href="https://www.kaggle.com/arya791">View My Kaggle Profile</a>
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
