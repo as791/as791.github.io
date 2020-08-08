@@ -12,7 +12,6 @@
 ---
 [Adversarial Example Attack and Defense](https://github.com/as791/Adversarial-Example-Attack-and-Defense)
 <img src="images/fgsm-adv.png?raw=true"/>
-<img src="images/ifgsm-adv.png?raw=true"/>
 <img src="images/mifgsm-adv.png?raw=true"/>
 ---
 ### Skills
