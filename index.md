@@ -7,4 +7,10 @@
 ---
 [Generation of Adversarial Examples using DCGAN (Pokemon Dataset)](/Adversarial-Examples-of-Pokemon)
 ---
+[Fundamental Brain Wave Extractor](/Fundamental-Brain-Waves-Extractor)
+---
+[Dog-vs-cat](/https://www.kaggle.com/arya791/kernel6fb4bf1ec6)
+---
+[Devanagari character recognition](https://github.com/as791/Devanagari-character-recognition)
+---
 ### Skills
