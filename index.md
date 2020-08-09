@@ -4,8 +4,9 @@
 ##### Team Member, Embedded Systems and Robotics
 ###### Kolkata, May 2020 - Jul 2020
 ---
-#### Summer Research Fellow, IIIT Bangalore (under Prof. Uttam Kumar)
-###### Banglore, May 2019 - Jul 2019                                 
+#### Summer Research Fellow, IIIT Bangalore 
+##### Guide: Prof. Uttam Kumar
+###### Bangalore, May 2019 - Jul 2019                                 
 *Evaluation of different machine learning algorithms for multi-spectral satellite image classification.*
 - Worked with the multi-spectral satellite data of Bangalore captured during March 2018 by **Landsat 8 OLI**.
 - Used GRASS GIS, free open-source software suite by OSGeo for visualisation for data annotation and map productions. Used scikit-learn and keras to build the classifiers. 
