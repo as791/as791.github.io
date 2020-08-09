@@ -9,7 +9,7 @@
 ---
 [Fundamental Brain Wave Extractor](/Fundamental-Brain-Waves-Extractor)
 ---
-[Dog-vs-cat](/https://www.kaggle.com/arya791/kernel6fb4bf1ec6)
+[Dog vs Cat](https://www.kaggle.com/arya791/kernel6fb4bf1ec6)
 ---
 [Devanagari character recognition](https://github.com/as791/Devanagari-character-recognition)
 ---
