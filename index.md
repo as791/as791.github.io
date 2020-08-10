@@ -3,6 +3,9 @@
 #### Research Intern, TCS Research & Innovation 
 ##### Team Member, Embedded Systems and Robotics
 ###### Kolkata, May 2020 - Jul 2020
+*3D Face Reconstruction*
+- Developed a ene-to-end pipeline to reconstruct 3D Face Meshes using 2D images.
+
 ---
 #### Summer Research Fellow, IIIT Bangalore 
 ##### Guide: Prof. Uttam Kumar
