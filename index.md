@@ -4,7 +4,10 @@
 ##### Team Member, Embedded Systems and Robotics
 ###### Kolkata, May 2020 - Jul 2020
 *3D Face Reconstruction*
-- Developed a ene-to-end pipeline to reconstruct 3D Face Meshes using 2D images.
+- Worked in a developement of the end-to-end pipeline to reconstruct 3D Face Meshes using 2D images.
+- Worked with [SFM model and eos C++ library](https://github.com/patrikhuber/eos/). Used them to an advantage with [ARAP-Surface Modeling](https://igl.ethz.ch/projects/ARAP/) to improve the leap areas of the Reconstructed Face Mesh. 
+- Developed a python binding for the same proposed methodology and made user friendly python script to optimize and improve the selected leap areas.
+- Achieved an improvement of **~20-50%** in reprojection error (case to case basis) for the selected leap areas.
 
 ---
 #### Summer Research Fellow, IIIT Bangalore 
