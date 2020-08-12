@@ -4,7 +4,7 @@
 ##### Team Member, Embedded Systems and Robotics
 ###### Kolkata, May 2020 - Jul 2020
 *3D Face Reconstruction*
-- Worked in a developement of end-to-end pipeline for reconstruction of 3D Face Meshes using 2D images. 
+- Worked in a development of end-to-end pipeline for reconstruction of 3D Face Meshes using 2D images. 
 - Implemented two papers and integrated them to improve the current local facial reconstruction over the selected leap areas of 3D Face Mesh.
 - Developed an objective function to improve those leap areas in the reconstructed meshes. 
 - Developed a python binding for C++ library and a python script for the proposed methodology.
