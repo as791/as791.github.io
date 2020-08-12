@@ -56,6 +56,9 @@ as framework.
 - Built CNN using Keras, achieved **99.69% of test accuracy.**
 
 ---
+### Publication
+1. Aryaman Sinha, "Evaluation of different machine learning algorithms for multi-spectral satellite image classification", Summer Research Fellowship Programme report no.19930, Indian Academy of Sciences, www.reports.ias.ac.in, 2019. [{Link}](http://reports.ias.ac.in/report/19330/evaluation-of-different-machine-learning-algorithms-for-multi-spectral-satellite-image-classification)
+
 ### Technical Profile
 - **Programming Languages** : C, C++, Python
 - **Web Applications** : Jupyter Notebook, Google Colaboratory, Kaggle Kernel
