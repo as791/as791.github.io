@@ -11,7 +11,7 @@
 
 ---
 #### Summer Research Fellow, IIIT Bangalore 
-##### Guide: Prof. Uttam Kumar
+##### Guide: Prof. Uttam Kumar, Assisstant Professor
 ###### Bangalore, May 2019 - Jul 2019                                 
 *Evaluation of different machine learning algorithms for multi-spectral satellite image classification.*
 - Worked with the multi-spectral satellite data of Bangalore captured during March 2018 by **Landsat 8 OLI**.
