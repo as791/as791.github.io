@@ -18,7 +18,7 @@
 - Used GRASS GIS, free open-source software suite by OSGeo for visualisation for data annotation and map productions. Used scikit-learn and keras to build the classifiers. 
 - Built 7 different classifiers and did their **comparative evaluation based on their user’s, producer’s, overall accuracy and kappa statistics.** 
 - Also, built an ensemble classifier using set of three models to get best error-corrected classified map. Achieved best classification map with overall accuracy of **96.06%**.
-- Analyzed **% land cover** use for best classified map to conclude towards the development of city policies for "Smart City" goals.
+- Analysed **% land cover** use for best classified map to conclude towards the development of city policies for "Smart City" goals.
 
 ---
 ### Projects
@@ -48,7 +48,7 @@ as framework.
 ---
 [Dog vs Cat Classification](https://www.kaggle.com/arya791/kernel6fb4bf1ec6)
 - Classification between dog and cat. Used the Dogs-vs-Cats (redux) dataset from kaggle competition.
-- Designed own model using Keras, achieved **F1 score of 91.50% and Log loss of 2.97 on the test data**. 
+- Designed own model using Keras, achieved **F1 score of 91.50% and Log loss of 2.97 with validation and Log loss of 3.09 with test data**. 
 
 ---
 [Devanagari character recognition](https://github.com/as791/Devanagari-character-recognition)
