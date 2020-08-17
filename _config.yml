@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/as791">My LinedIn Profile</a>
   <a href="https://www.linkedin.com/in/as791/">My GitHub Profile</a>
   <br>
-  <a href="https://github.com/as791/as791.github.io/Aryaman_CV(light).pdf" class="downloads" target="_blank">Download Résumé</a>
+  <a href="https://github.com/as791/as791.github.io/blob/master/Aryaman_CV(light).pdf" class="downloads" target="_blank">Download Résumé</a>
   </p>
   
 theme: jekyll-theme-minimal
