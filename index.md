@@ -45,6 +45,7 @@ as framework.
 - **Simulation Tools** : Logisim, PSpice
 - **Hardware Tools** : Arduino (Uno,Due), Basys3, Intel 8085
 - **Document Preparation System** : LaTeX
+- **Other Technologies** : VS Code, Sublime Text, Cmake, WSL, Git
 
 ### GitHub Stats
 
