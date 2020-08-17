@@ -1,2 +1,2 @@
-## Personalised Portfolio/Resume Page
+## Portfolio Page
 To visit - https://as791.github.io/
