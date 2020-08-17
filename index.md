@@ -46,8 +46,6 @@ as framework.
 - **Hardware Tools** : Arduino (Uno,Due), Basys3, Intel 8085
 - **Document Preparation System** : LaTeX
 
-![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=as791.github.com.io/&title=Page%20Views)
-
 ### GitHub Stats
 
-![GitHub Stats](https://readmestats.vercel.app/api?username=as791&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![GitHub Stats](https://readmestats.vercel.app/api?username=as791&show_icons=true&theme=grey_white&count_private=false&include_all_commits=true)
