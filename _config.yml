@@ -3,10 +3,10 @@ logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, I am Aryaman, Electrical Engineering student at IIT Bhubaneswar.
   <p>
-  <a href="https://github.com/as791">My LinedIn Profile</a>
-  <a href="https://www.linkedin.com/in/as791/">My GitHub Profile</a>
+  <a href="https://github.com/as791" class="view" target="_blank">My GitHub Profile</a>
+  <a href="https://www.linkedin.com/in/as791/" class="view" target="_blank">My LinkedIn Profile</a>
   <br>
-  <a href="https://github.com/as791/as791.github.io/blob/master/Aryaman_CV(light).pdf" class="downloads" target="_blank">Download Résumé</a>
+  <a href="https://drive.google.com/file/d/1L4vu8_VWwHFQWodSCV73At8VU2R48Ccz/view?usp=sharing" class="view" target="_blank">View Résumé</a>
   </p>
   
 theme: jekyll-theme-minimal
