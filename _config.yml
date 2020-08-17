@@ -3,7 +3,9 @@ logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, I am Aryaman, an Electrical Engineering student at IIT Bhubaneswar.
   <br><br>
-  <a href="https://www.linkedin.com/in/as791/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/as791/">View My LinkedIn Profile</a>
+  <br><br>
+  <a href="https://drive.google.com/file/d/1L4vu8_VWwHFQWodSCV73At8VU2R48Ccz/view?usp=sharing">View My Resume</a>
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
