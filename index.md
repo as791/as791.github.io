@@ -1,32 +1,10 @@
 ## Portfolio
-### Experience
-#### Research Intern, TCS Research & Innovation 
-##### Team Member, Embedded Systems and Robotics
-###### Kolkata, May 2020 - Jul 2020
-*3D Face Reconstruction*
-- Worked in a development of end-to-end pipeline for reconstruction of 3D Face Meshes using 2D images. 
-- Implemented two papers and integrated them to improve the current local facial reconstruction over the selected leap areas of 3D Face Mesh.
-- Developed an objective function to improve those leap areas in the reconstructed meshes. 
-- Developed a python binding for C++ library and a python script for the proposed methodology.
-
----
-#### Summer Research Fellow, IIIT Bangalore 
-##### Guide: Prof. Uttam Kumar, Assistant Professor
-###### Bangalore, May 2019 - Jul 2019                                 
-*Evaluation of different machine learning algorithms for multi-spectral satellite image classification.*
-- Worked with the multi-spectral satellite data of Bangalore captured during March 2018 by **Landsat 8 OLI**.
-- Used GRASS GIS, free open-source software suite by OSGeo for visualisation for data annotation and map productions. Used scikit-learn and keras to build the classifiers. 
-- Built 7 different classifiers and did their **comparative evaluation based on their user’s, producer’s, overall accuracy and kappa statistics.** 
-- Also, built an ensemble classifier using set of three models to get best error-corrected classified map. Achieved best classification map with overall accuracy of **96.06%**.
-- Analysed **% land cover** use for best classified map to conclude towards the development of city policies for "Smart City" goals.
-
----
 ### Projects
 [Multimodal Brain Tumor Segmentation](/Multimodal-Brain-Tumor-Segmentation)
 - Segmentation of gliomas in pre-operative MRI scans. Used the provided clinically-acquired training data to produce segmentation labels.
 - Pre-processed the provided clinically-acquired training data and applied simple **U-Net** as semantic segmentation model and **Dice Coefficient** as metrics for evaluation. Used Keras 
 as framework.
-- Achieved dice coefficient score of **0.9950** for lower grade glioma (LGG) and **0.9814 (average)** for glioblastoma (GBM/HGG).
+- Achieved dice coefficient score of **0.9950** for lower grade glioma (LGG) and **0.9814** for glioblastoma (GBM/HGG).
 
 ---
 [Adversarial Example Attack and Defense](/Adversarial-Example-Attack-and-Defense)
@@ -63,7 +41,7 @@ as framework.
 - **Programming Languages** : C, C++, Python
 - **Web Applications** : Jupyter Notebook, Google Colaboratory, Kaggle Kernel
 - **Software Suites** : MeshLab, GRASS GIS, MATLAB & Simulink, Vivado
-- **Frameworks and Libraries** : PyTorch, Tensorflow, Keras, Scikit-Learn, Scipy, OpenCV, Ceres Solver, Pandas, Matplolib
+- **Frameworks and Libraries** : PyTorch, Tensorflow, Keras, Scikit-Learn, Scipy, OpenCV, Ceres-Solver, GLM, Pandas, Matplolib
 - **Simulation Tools** : Logisim, PSpice
 - **Hardware Tools** : Arduino (Uno,Due), Basys3, Intel 8085
 - **Document Preparation System** : LaTeX
