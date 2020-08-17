@@ -7,10 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     <img align="left" alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://drive.google.com/file/d/1L4vu8_VWwHFQWodSCV73At8VU2R48Ccz/view?usp=sharing">
-    <img align="left" alt="Resume" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/resume.svg" />
+    <img align="left" alt="Resume" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/a-block.svg" />
   </a>
   </p>
-   <img align="left" alt="Resume" width="24px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=as791.github.com.io/&title=Page%20Views"/>
+  <br>
+  <img align="left" alt="Resume" width="100px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=as791.github.com.io/&title=Page%20Views"/>
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
