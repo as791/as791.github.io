@@ -37,7 +37,7 @@ as framework.
 ### Publication
 1. Aryaman Sinha, "Evaluation of different machine learning algorithms for multi-spectral satellite image classification", Summer Research Fellowship Programme report no.19930, Indian Academy of Sciences, www.reports.ias.ac.in, 2019. [{Link}](http://reports.ias.ac.in/report/19330/evaluation-of-different-machine-learning-algorithms-for-multi-spectral-satellite-image-classification)
 
-### Technical Profile
+### Skills
 - **Programming Languages** : C, C++, Python
 - **Web Applications** : Jupyter Notebook, Google Colaboratory, Kaggle Kernel
 - **Software Suites** : MeshLab, GRASS GIS, MATLAB & Simulink, Vivado
@@ -45,3 +45,9 @@ as framework.
 - **Simulation Tools** : Logisim, PSpice
 - **Hardware Tools** : Arduino (Uno,Due), Basys3, Intel 8085
 - **Document Preparation System** : LaTeX
+
+![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=as791.github.com.io/&title=Page%20Views)
+
+### GitHub Stats
+
+![GitHub Stats](https://readmestats.vercel.app/api?username=as791&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
