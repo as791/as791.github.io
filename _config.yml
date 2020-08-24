@@ -1,13 +1,13 @@
 title: Aryaman Sinha # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi, I am Aryaman, Electrical Engineering student at IIT Bhubaneswar.
+  Hi, I am Aryaman, Electrical Engineering student at IIT Bhubaneswar. My current areas of interest are, Machine Learning, Deep Learning, Computer Vision, Digital Signal Processing.
   <p>
-  <a href="https://github.com/as791" class="view" target="_blank">My GitHub Profile</a>
+  <a href="https://github.com/as791" class="view" target="_blank">View My GitHub Profile</a>
    <br>
-  <a href="https://www.linkedin.com/in/as791/" class="view" target="_blank">My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/as791/" class="view" target="_blank">View My LinkedIn Profile</a>
   <br>
-  <a href="https://drive.google.com/file/d/1L4vu8_VWwHFQWodSCV73At8VU2R48Ccz/view?usp=sharing" class="view" target="_blank">View Résumé</a>
+  <a href="https://drive.google.com/file/d/1L4vu8_VWwHFQWodSCV73At8VU2R48Ccz/view?usp=sharing" class="view" target="_blank">View My Resume</a>
   </p>
   
 theme: jekyll-theme-minimal
