@@ -36,7 +36,8 @@ as framework.
 ---
 ### Publication
 1. Aryaman Sinha, "Evaluation of different machine learning algorithms for multi-spectral satellite image classification", Summer Research Fellowship Programme report no.19930, Indian Academy of Sciences, www.reports.ias.ac.in, 2019. [{Link}](http://reports.ias.ac.in/report/19330/evaluation-of-different-machine-learning-algorithms-for-multi-spectral-satellite-image-classification)
-
+### Medium Articles
+1. Deep Dive Into Adversarial Attacks.[{Link}](https://medium.com/swlh/deep-dive-into-adversarial-attacks-71f12885acf0)
 ### Skills
 - **Programming Languages** : C, C++, Python
 - **Web Applications** : Jupyter Notebook, Google Colaboratory, Kaggle Kernel
