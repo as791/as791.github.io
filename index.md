@@ -39,7 +39,7 @@ as framework.
 
 ---
 ### Blog Articles 
-1. Aryaman Sinha, "Deep Dive Into Adversarial Attacks", The Startup, Medium, https://medium.com/swlh/deep-dive-into-adversarial-attacks-71f12885acf0.
+1. Aryaman Sinha, "Deep Dive Into Adversarial Attacks", The Startup, Medium. [{Link}](https://medium.com/swlh/deep-dive-into-adversarial-attacks-71f12885acf0)
 
 ---
 ### Skills
