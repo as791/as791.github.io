@@ -47,8 +47,7 @@ as framework.
 - **Web Applications** : Jupyter Notebook, Google Colaboratory, Kaggle Kernel
 - **Software Suites** : MeshLab, GRASS GIS, MATLAB & Simulink, Vivado
 - **Frameworks and Libraries** : PyTorch, Tensorflow, Keras, Scikit-Learn, Scipy, OpenCV, Ceres-Solver, GLM, Pandas, Matplolib
-- **Simulation Tools** : Logisim, PSpice
-- **Hardware Tools** : Arduino (Uno,Due), Basys3, Intel 8085
+- **Hardware Tools** : Arduino (Uno,Due)
 - **Document Preparation System** : LaTeX
 - **Other Technologies** : VS Code, Sublime Text, Cmake, WSL, Git
 
