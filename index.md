@@ -8,9 +8,9 @@ as framework.
 
 ---
 [Adversarial Example Attack and Defense](/Adversarial-Example-Attack-and-Defense)
-- Implemented three adversarial example attacks and one defense using *MNIST* dataset using PyTorch as framework.
-- Achieved **~70% reduction** in test accuracy during the attacks, namely **FGSM, I-FGSM and MI-FGSM**.
-- Used **Defensive Distillation** method as countermeasure to these attacks and achieved with only **~2% reduction** in test accuracy during the attacks.
+- Implemented three adversarial example attacks and one defense with MNIST dataset using PyTorch as framework.
+- Achieved **~70% Success Rate** during the attacks, namely **FGSM, I-FGSM and MI-FGSM**.
+- Used **Defensive Distillation** method as countermeasure to these attacks and achieved with only **~2% Success Rate** during the attackk, thus a successful defense.
 
 ---
 [Generation of Adversarial Examples using DCGAN (Pokemon Dataset)](/Adversarial-Examples-of-Pokemon)
